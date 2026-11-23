@@ -1,6 +1,5 @@
 ```
 
-```markdown
 # 🚗 Data Analysis & Visualization About Cars Dataset
 
 An exploratory data analysis (EDA) and data visualization project built in Python using the **Car Features and MSRP** dataset from Kaggle (`11,914` initial records and `16` columns). The project examines vehicle distributions, engine horsepower vs. retail price (`MSRP`), transmission shares, and multi-year price trends.
@@ -43,4 +42,4 @@ This project explores automotive specifications and pricing across **16 features
 
 ```
 
-```
+
